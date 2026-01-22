@@ -1,4 +1,4 @@
-#VARIABLES is a name used to store dat in memory.
+#VARIABLES is a name used to store data in memory.
 
 
 user_name = "princy"           # string
