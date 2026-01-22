@@ -9,11 +9,8 @@ is_student = True              # bool
 print(f"I am {user_name}")
 print(f"wish this {year} year would be an great learnig path")
 print(f"the constant value of pi is {pi}")
-<<<<<<< HEAD
 print (f"is this user a student ? {is_student}")
-=======
 print (f"he was an admin of this group{is_student}")
->>>>>>> d5a6a76b8d38ba28ca6523b727f17d8cd874ab67
 
 
 #sample
